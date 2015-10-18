@@ -6,14 +6,13 @@ This folder contains your submission for the [responsive challenge](http://facul
 > Answer goes here!
 
 ##### 2. Did you receive any help from others (classmates, etc)? If so, please list who. #####
-> Answer goes here!
+> None
 
 ##### 3. Did you complete any advanced extensions to this challenge? If so, what? #####
-> Answer goes here!
+> Nope
 
 ##### 4. Approximately how many hours did it take you to complete this challenge? #####
-> Answer goes here!
+> ~5-6 hours
 
 ##### 5. Did you encounter any problems in this challenge we should warn students about in the future? How can we make the challenge better? #####
-> Answer goes here!
-
+> Formatting the footer, not sure why the grey area won't cover teh whole thing. Also, some of the elements in the body of my program sit on top of the menu bar and I have no idea why. There are a lot of small formatting issues that aren't covered in the spec. The bootstrap css also had some default values that would mess up the formatting of the webpage that we weren't warned about and had to find ourselves. A better/more definitive spec would be super helpful.
